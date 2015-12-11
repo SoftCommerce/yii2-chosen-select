@@ -8,6 +8,10 @@
         {
             "name": "Igor Chepurnoy",
             "email": "igorzfort@gmail.com"
+        },
+        {
+            "name": "Oleg Ilyushyn",
+            "email": "iloa.exec@gmail.com"
         }
     ],
     "require": {
@@ -15,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yii2mod\\chosen\\": ""
+            "softcommerce\\chosen\\": ""
         }
     }
 }
