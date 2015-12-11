@@ -1,6 +1,6 @@
 <?php
 
-namespace yii2mod\chosen;
+namespace softcommerce\chosen;
 
 use yii\helpers\Html;
 use yii\helpers\Json;
